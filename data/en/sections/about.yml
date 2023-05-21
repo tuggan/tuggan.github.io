@@ -1,0 +1,33 @@
+---
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Security analyst
+company:
+  name: Atea Sverige AB
+  url: https://www.atea.se/
+
+resume: files/resume.pdf
+
+summary: "I am a passionate security specialist with 5 years of experience. I've been sharpening my skills within the nordic Atea SOC. Working both with customers and internal environments."
+
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/tuggan"
+
+softSkills:
+- name: Teamwork
+  percentage: 90
+  color: blue
+- name: Presentation
+  percentage: 65
+  color: yellow
+- name: Leadership
+  percentage: 30
+  color: red

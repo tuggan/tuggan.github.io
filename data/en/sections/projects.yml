@@ -1,0 +1,36 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # hideTitle: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Hobby
+  filter: "hobby"
+
+projects:
+- name: Max Kiosks
+  url: "https://www.max.se/"
+  summary: "Created deployment and configuration for Max restaurant kiosks"
+  tags: ["professional"]
+
+- name: Kubernetes
+  sumary: Setup and managed a lightweight kubernetes environment
+  tags: ["professional"]
+
+- name: SOAR
+  sumary: Installed and configured IBM SOAR for an internal and external monitoring environment.
+  tags: ["professional"]
+
+- name: GoIP
+  role: Owner
+  timeline: 
+  repo: "https://github.com/tuggan/goip"
+  summary: "Created and management of GoIP running on https://ipconf.se"
+  tags: ["hobby"]

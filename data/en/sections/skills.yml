@@ -1,0 +1,23 @@
+---
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # hideTitle: true
+
+skills:
+- name: Security Analysis
+- name: IBM SOAR
+- name: Elastic Stack
+- name: IBM QRadar
+- name: Azure Sentinel
+- name: Kubernetes
+- name: Ansible
+- name: Go Development
+  logo: 
+  sumary:
+  url:
+- name: Python Development
+- name: Data Analysis

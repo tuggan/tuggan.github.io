@@ -1,0 +1,49 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: Atea Sverige AB
+    url: "https://www.atea.se/"
+    location: Luleå
+    overview: Sweden's leading IT-infrasructure organization.
+  positions:
+  - designation: Security Analyst
+    start: Jul 2022
+    responsibilities:
+    - Triage and analyse security incidents
+    - Architect secure working environments, connectivity and data transfers.
+    - DevOps
+    - Automating and integrating systems
+    - Developing integrations
+    - Teaching new hires
+  - designation: Technical Consultant
+    start: Nov 2017
+    end: Jul 2022
+    responsibilities:
+    - Triage and analyse security incidents
+    - Managing secure working environments
+    - Linux, Windows and Network operations
+    - Deployment of retail kiosks in a production environment
+  - designation: IT Technician
+    start: May 2016
+    end: Oct 2017
+    responsibilities:
+    - Servicedesk customer support
+
+- company:
+    name: Sotarn i Piteå
+    url: "https://www.sotningen.se/"
+    location: Piteå
+    overview: Chimney sweeping, ventilation cleaning and fire hazzard inspections.
+  positions:
+  - designation: Chimney sweep
+    start: Apr 2015
+    end: Dec 2015
+    responsibilities:
+    - Cleaning fireplaces and sweeping chimnies
+    - Taking care of company car

@@ -1,0 +1,18 @@
+name: Dennis Vesterlund
+nickname: Vestern
+
+greetings: "Hi, I am"
+image: "images/avatar.jpg"
+
+contactInfo:
+  email: "dennisvesterlund@gmail.com"
+  github:
+    icon: github
+    url: https://github.com/tuggan
+    text: My personal github
+
+summary:
+  - I am a security analyst
+  - I am a developer
+  - I am a Devops
+  - I sometimes work on open-source projects

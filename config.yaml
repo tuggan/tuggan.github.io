@@ -1,0 +1,27 @@
+baseURL: 'https://vestern.se/'
+languageCode: 'en-US'
+title: 'Home of Dennis Vesterlund'
+theme: 'toha'
+
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+enableEmoji: true
+
+params:
+  background: "images/background.jpg"
+  gitRepo: https://github.com/tuggan/tuggan.github.io
+  enableBlogPost: true
+  enableTOC: true
+  newsletter:
+    enable: false
+

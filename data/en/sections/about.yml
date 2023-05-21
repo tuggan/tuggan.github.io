@@ -12,7 +12,7 @@ company:
   name: Atea Sverige AB
   url: https://www.atea.se/
 
-resume: files/resume.pdf
+# resume: files/resume.pdf
 
 summary: "I am a passionate security specialist with 5 years of experience. I've been sharpening my skills within the nordic Atea SOC. Working both with customers and internal environments."
 

@@ -15,22 +15,28 @@ buttons:
   filter: "hobby"
 
 projects:
-- name: Max Kiosks
-  url: "https://www.max.se/"
-  summary: "Created deployment and configuration for Max restaurant kiosks"
-  tags: ["professional"]
-
-- name: Kubernetes
-  sumary: Setup and managed a lightweight kubernetes environment
-  tags: ["professional"]
-
-- name: SOAR
-  sumary: Installed and configured IBM SOAR for an internal and external monitoring environment.
-  tags: ["professional"]
 
 - name: GoIP
-  role: Owner
+  role: Creator
   timeline: 
   repo: "https://github.com/tuggan/goip"
   summary: "Created and management of GoIP running on https://ipconf.se"
-  tags: ["hobby"]
+  tags: ["hobby", "programming"]
+
+- name: Max Kiosks
+  role: Engineer
+  url: "https://www.max.se/"
+  summary: "Created deployment and configuration for Max restaurant kiosks"
+  tags: ["professional", "deployment"]
+
+- name: SOAR
+  role: Engineer
+  summary: Installed and configured IBM SOAR for an internal and external monitoring environment.
+  tags: ["professional", "setup", "deployment", "configuration"]
+
+- name: Kubernetes
+  role: Engineer
+  summary: Setup and managed a lightweight kubernetes environment
+  tags: ["professional", "deployment"]
+
+

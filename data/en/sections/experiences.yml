@@ -17,7 +17,7 @@ experiences:
     responsibilities:
     - Triage and analyse security incidents
     - Architect secure working environments, connectivity and data transfers.
-    - DevOps
+    - DevOps (Ansible and Kubernetes)
     - Automating and integrating systems
     - Developing integrations
     - Teaching new hires
@@ -27,8 +27,10 @@ experiences:
     responsibilities:
     - Triage and analyse security incidents
     - Managing secure working environments
+    - Automating operations with Ansible
     - Linux, Windows and Network operations
     - Deployment of retail kiosks in a production environment
+    - Packaging of applications for windows endpoints
   - designation: IT Technician
     start: May 2016
     end: Oct 2017

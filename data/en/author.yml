@@ -6,10 +6,8 @@ image: "images/avatar.jpg"
 
 contactInfo:
   email: "dennisvesterlund@gmail.com"
-  github:
-    icon: github
-    url: https://github.com/tuggan
-    text: My personal github
+  github: https://github.com/tuggan
+  linkedin: https://www.linkedin.com/in/dennis-vesterlund/
 
 summary:
   - I am a security analyst

@@ -7,27 +7,44 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Security analyst
+designation: Security Analyst
 company:
   name: Atea Sverige AB
   url: https://www.atea.se/
 
-# resume: files/resume.pdf
-
 summary: "I am a passionate security specialist with 5 years of experience. I've been sharpening my skills within the nordic Atea SOC. Working both with customers and internal environments."
 
 socialLinks:
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: dennisvesterlund@gmail.com
+
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/tuggan"
+  url: https://github.com/tuggan
 
-softSkills:
-- name: Teamwork
-  percentage: 90
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: https://www.linkedin.com/in/dennis-vesterlund/
+
+resourceLinks:
+- title: "My Resume"
+  url: files/se/CV-Dennis-Vesterlund.pdf
+
+badges:
+
+- type: soft-skill-indicator
+  name: Teamwork
+  percentage: 100
   color: blue
-- name: Presentation
+
+- type: soft-skill-indicator
+  name: Presentation
   percentage: 65
   color: yellow
-- name: Leadership
+
+- type: soft-skill-indicator
+  name: Leadership
   percentage: 30
-  color: red
+  color: orange

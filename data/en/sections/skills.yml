@@ -9,15 +9,50 @@ section:
 
 skills:
 - name: Security Analysis
+  summary: Worked with many security incidents in different systems. Mainly SIEM's
+
 - name: IBM SOAR
+  summary: Capable of installing and configuring IBM SOAR with custom and automatic workflows.
+  url: https://www.ibm.com/products/qradar-soar
+  logo: images/logos/IBM-Security.svg
+
 - name: Elastic Stack
+  summary: Setting up and configuring the elastic stack and beats.
+  url: https://www.elastic.co/
+  logo: images/logos/elasticstack_logo.svg
+
 - name: IBM QRadar
+  summary: Analysed security incidents. Capable of designing, setting up, and configuring an environment.
+  url: https://www.ibm.com/qradar
+  logo: images/logos/IBM-Security.svg
+
 - name: Azure Sentinel
+  summary: Analysed security incidents. Capable of finding and comparing IOC's.
+  url: https://azure.microsoft.com/en-us/products/microsoft-sentinel
+  logo: images/logos/Azure-Sentinel.svg
+
 - name: Kubernetes
+  summary: Writing deployments
+  url: https://kubernetes.io/
+  logo: images/logos/Kubernetes_logo.svg
+
 - name: Ansible
+  summary: Writing roles, configurations and automations.
+  url: https://www.ansible.com/
+  logo: images/logos/Ansible_logo.svg
+
 - name: Go Development
-  logo: 
-  sumary:
-  url:
+  logo: images/logos/Go_Logo_Blue.svg
+  summary: Mainly hobby development. Maintianing [GoIP](https://github.com/tuggan/goip) which runs on [ipconf.se](http://ipconf.se)
+  url: https://go.dev/
+
 - name: Python Development
+  summary: Posess a good understanding of the language. Written automatic deployment installations and shells. Performed data analysis with Pandas.
+  url: https://www.python.org/
+  logo: images/logos/Python-logo-notext.svg
+
 - name: Data Analysis
+  summary: Performed data analysis with Pandas. Compared data between different systems investigating deliverables.
+  url: https://pandas.pydata.org/
+  logo: images/logos/Pandas_mark.svg
+

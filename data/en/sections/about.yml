@@ -33,6 +33,16 @@ resourceLinks:
   url: files/se/CV-Dennis-Vesterlund.pdf
 
 badges:
+  
+- type: certification
+  name: Blue Team Level 1 (BTL1)
+  url: https://www.credly.com/badges/04df3999-20ac-4713-a141-dcfdcd34ade1
+  badge: https://images.credly.com/size/340x340/images/d7f68b5e-5282-4697-8a1e-7e6e16d7d45f/btl1certified.png
+
+- type: certification
+  name: IBM Certified Associate Administrator - Security QRadar SIEM V7.2.8
+  url: https://www.credly.com/badges/0227c7c9-cfac-4d73-a3f0-e3036c8da431
+  badge: https://images.credly.com/size/340x340/images/e0e501a5-87bc-4462-8d7c-1ec9b4c6d39b/Security_QRadar_SIEM_V7.2.8.png
 
 - type: soft-skill-indicator
   name: Teamwork
